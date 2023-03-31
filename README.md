@@ -10,7 +10,12 @@ Hey there, I'm Sanjai Kabilan Sivakumar (aka Sanjaikabilan)! Currently pursuing 
 - 🌐 HTML: 80%
 - 🎨 CSS: 60%
 - 🌈 JavaScript: 50%
-- 🤖 Frameworks: Django: 80%, React: 30%, Bootstrap: 70%
+- 🤖 Frameworks:
+- 
+-  Django: 80%,
+-  React: 30%,
+-  Bootstrap: 70%
+-  
 - 💻 Embedded Systems: AVR Family - Arduino Board, ESP Boards, and Raspberry Pi boards: 60%
 - 🤯 Currently learning RTOS: 30%
 
