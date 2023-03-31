@@ -4,7 +4,7 @@
 
 Hey there, I'm Sanjai Kabilan Sivakumar (aka Sanjaikabilan)! Currently pursuing my 3rd Mechatronics Engineering at KCT (yeah, you read that right), but who cares about that, I'm actually a software developer. 😎
 
-## 🚀 My Skills
+## 🚀 Explorations
 
 - 🐍 Python and Embedded C: 70%
 - 🌐 HTML: 80%
