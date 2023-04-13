@@ -21,7 +21,7 @@ Hey there, I'm Sanjai Kabilan Sivakumar (aka Sanjaikabilan)! Currently pursuing 
 
 Note: Please don't ask me how I got these percentages. I just made them up on the spot. 😂
 
-## 🌟 Do not Connect with Me
+## 🌟 Do not Connect with Me [Lol]
 
 - LinkedIn: [SanjaiKabilan Sivakumar](https://www.linkedin.com/in/sanjaikabilan-s-088835201/) [Nothing there yet]
 - Twitter: [Please Check Back Later ]
