@@ -1,5 +1,3 @@
-### Here We Go! (☞ﾟヮﾟ)☞
-
 # Here We Go! (☞ﾟヮﾟ)☞ 
 
 Hey there, I'm Sanjai Kabilan Sivakumar (aka Sanjaikabilan)! Currently pursuing my 3rd Mechatronics Engineering at KCT (yeah, you read that right), but who cares about that, I'm actually a software developer. 😎
@@ -25,9 +23,23 @@ Hey there, I'm Sanjai Kabilan Sivakumar (aka Sanjaikabilan)! Currently pursuing 
 Note: Please don't ask me how I got these percentages. I just made them up on the spot. 😂
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjaikabilan&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaikabilan&theme=shades-of-purple&hide_border=false)<br/>
+<div align="left">
+<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaikabilan&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+   
+![](https://github-readme-stats.vercel.app/api?username=Sanjaikabilan&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaikabilan&theme=shades-of-purple&hide_border=false)<br/>
+
+
+
+</p>
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanjaikabilan&theme=discord&no-frame=false&no-bg=true&margin-w=4)
