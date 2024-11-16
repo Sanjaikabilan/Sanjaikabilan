@@ -17,8 +17,6 @@ Me codes :)
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjaikabilan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanjaikabilan&icon=7&color=1)](https://visitcount.itsvg.in)
